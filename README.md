@@ -1,6 +1,7 @@
-# Pterodactyl用 Discord Simple Music Bot Egg
+# Pterodactyl Discord-SimpleMusicBOT Egg
 
-このEggは、Pterodactylパネル上で[Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)のインスタンスを簡単に作成するためのものです。インストールプロセスを自動化し、全ての機能が正常に動作することを保障します。
+このEggは、Pterodactylパネル上で[Discord-SimpleMusicBot](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)のインスタンスを簡単に作成するものです。
+インストールプロセスを自動化し、全ての機能が正常に動作することを保障します。
 
 ## 機能
 
@@ -10,17 +11,17 @@
 
 ## 使用方法
 
-1.  **Eggのインポート:** このJSONファイルをPterodactylパネルにインポートします。
+1.  **Eggのインポート:** リリースからJsonファイルをPterodactylパネルにインポートします。
 2.  **Eggの設定:**
     -   **GIT_VERSION:** 使用するBOTのバージョンを入力します。例: `v4.3.10` [バージョン一覧](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot/releases/)
 3.  **新しいサーバーの作成:** このEggを使用して新しいサーバーを作成します。
-4.  **サーバーの起動:** インストールが自動で行われ
 5.  **Botの設定:** Discord-SimpleMusicBotの[公式ドキュメント](https://web.usamyon.moe/Discord-SimpleMusicBot/)に従って、初期設定を行ってください。
+6.  **サーバーの起動** これでインストールプロセスは終了です。
 
 ## インストール詳細
 -   **インストール方法:** 公式ドキュメントの[クローンして実行する](https://web.usamyon.moe/Discord-SimpleMusicBot/docs/setup/installation/normal)を参考に実行されます。
 -   **環境:** インストールスクリプトは、Node.js v20を搭載したDebianベースのコンテナを使用します。
--   **Gitリポジトリ:** Botコードは、[公式GitHubリポジトリ](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)からクローンされます。
+-   **Gitリポジトリ:** BOTコードは、[公式GitHubリポジトリ](https://github.com/mtripg6666tdr/Discord-SimpleMusicBot)からクローンされます。
 -   **Node.js:** Node.jsは`nvm`経由でインストールされます。
 -   **依存関係:** すべての依存関係は`npm`経由でインストールされます。
 
