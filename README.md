@@ -38,4 +38,4 @@
 
 ## サポート
 
-Discord-SimpleMusicBot自体に関する問題については、Botの[公式ドキュメント](https://web.usamyon.moe/Discord-SimpleMusicBot/)を参照してください。このEggに関する問題については、（takuan.tn@gmail.com）またはDiscord(t_ku)にお問い合わせください。
+Discord-SimpleMusicBot自体に関する問題については、Botの[公式ドキュメント](https://web.usamyon.moe/Discord-SimpleMusicBot/)を参照してください。このEggに関する問題については、（takuan.tn@gmail.com）Discord(t_ku)にお問い合わせください。
