@@ -32,7 +32,7 @@
             "name": "GIT_VERSION",
             "description": "Please enter the version of the BOT here. (e.g. v4.3.10)",
             "env_variable": "GIT_VERSION",
-            "default_value": "v4.4.0",
+            "default_value": "v4.4.2",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string|max:20",
